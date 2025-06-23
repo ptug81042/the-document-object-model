@@ -1,2 +1,1 @@
-# the-document-object-model
-The Document Object Model (DOM)
+# The Document Object Model (DOM)
